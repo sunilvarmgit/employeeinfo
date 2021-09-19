@@ -1,0 +1,10 @@
+{
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "deploy",
+            "path": "mybookingapp/",
+            "label": "npm: deploy - mybookingapp"
+        }
+    ]
+}
